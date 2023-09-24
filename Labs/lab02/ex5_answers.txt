@@ -1,0 +1,9 @@
+1. 1
+2. strcpy
+3. copy_str
+4. ex5_valgrind.c
+5. 7
+6. 12
+7. 13
+8. Yes
+9. 12

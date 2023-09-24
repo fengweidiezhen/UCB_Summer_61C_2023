@@ -1,0 +1,16 @@
+# You should be editing this file for exercise 3 of lab 2.
+# Make sure each command is on its own line
+# Lines starting with # are comments, feel free to add any to document your commands
+
+# Please add your commands below this line
+break check_number
+run
+next
+step
+b 31 if letter == '0'
+c
+print(letter)
+print(is_in_range)
+print(lower)
+print(upper)
+quit
